@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+
+wx:
+  config:
+    originalid: gh_b60b3276fd51
+    appid: wx17b7e46fda934e03
+    token: b8b6
+
